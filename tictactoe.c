@@ -140,7 +140,7 @@ if( (a[6]==a[7] && a[7]==a[8] && a[6]==88) ||(a[3]==a[4] && a[3]==a[5] && a[3]==
    ||(a[7]==a[4] && a[4]==a[1] && a[7]==88) ||(a[8]==a[5] && a[5]==a[2] && a[8]==88)||(a[6]==a[2] && a[2]==a[4] && a[6]==88)||(a[8]==a[4] && a[8]==a[0] && a[8]==88))
 
                     {
-                        printf("\t\t\t\t\t\n====== %s is the WINNER.========BY SANJU\n\n",player1);
+                        printf("\t\t\t\t\t\n====== %s is the WINNER.========Game by grpnpraveen\n\n",player1);
                         exit(0);
 
                     }
@@ -149,7 +149,7 @@ if( (a[6]==a[7] && a[7]==a[8] && a[6]==79) ||(a[3]==a[4] && a[3]==a[5] && a[3]==
    ||(a[7]==a[4] && a[4]==a[1] && a[7]==79) ||(a[8]==a[5] && a[5]==a[2] && a[8]==79)||(a[6]==a[2] && a[2]==a[4] && a[6]==79)||(a[8]==a[4] && a[8]==a[0] && a[8]==79))
 
                     {
-                        printf("\t\t\t\t\t\n====== %s is the WINNER.========BY SANJU\n\n",player2);
+                        printf("\t\t\t\t\t\n====== %s is the WINNER.========Game by grpnpraveen\n\n",player2);
                         exit(0);
 
                     }
@@ -185,7 +185,7 @@ if( (a[6]==a[7] && a[7]==a[8] && a[6]==88) ||(a[3]==a[4] && a[3]==a[5] && a[3]==
    ||(a[7]==a[4] && a[4]==a[1] && a[7]==88) ||(a[8]==a[5] && a[5]==a[2] && a[8]==88)||(a[6]==a[2] && a[2]==a[4] && a[6]==88)||(a[8]==a[4] && a[8]==a[0] && a[8]==88))
 
                     {
-                        printf("\t\t\t\t\t\n====== %s is the WINNER.========BY SANJU\n\n",player1);
+                        printf("\t\t\t\t\t\n====== %s is the WINNER.========Game by grpnpraveen\n\n",player1);
                         exit(0);
 
                     }
@@ -194,7 +194,7 @@ if( (a[6]==a[7] && a[7]==a[8] && a[6]==79) ||(a[3]==a[4] && a[3]==a[5] && a[3]==
    ||(a[7]==a[4] && a[4]==a[1] && a[7]==79) ||(a[8]==a[5] && a[5]==a[2] && a[8]==79)||(a[6]==a[2] && a[2]==a[4] && a[6]==79)||(a[8]==a[4] && a[8]==a[0] && a[8]==79))
 
                     {
-                        printf("\t\t\t\t\t\n====== %s is the WINNER.========BY SANJU\n\n",player2);
+                        printf("\t\t\t\t\t\n====== %s is the WINNER.========Game by grpnpraveen\n\n",player2);
                         exit(0);
 
                     }
@@ -228,7 +228,7 @@ if( (a[6]==a[7] && a[7]==a[8] && a[6]==88) ||(a[3]==a[4] && a[3]==a[5] && a[3]==
    ||(a[7]==a[4] && a[4]==a[1] && a[7]==88) ||(a[8]==a[5] && a[5]==a[2] && a[8]==88)||(a[6]==a[2] && a[2]==a[4] && a[6]==88)||(a[8]==a[4] && a[8]==a[0] && a[8]==88))
 
                     {
-                        printf("\t\t\t\t\t\n====== %s is the WINNER.========BY SANJU\n\n",player1);
+                        printf("\t\t\t\t\t\n====== %s is the WINNER.========Game by grpnpraveen\n\n",player1);
                         exit(0);
 
                     }
@@ -237,7 +237,7 @@ if( (a[6]==a[7] && a[7]==a[8] && a[6]==79) ||(a[3]==a[4] && a[3]==a[5] && a[3]==
    ||(a[7]==a[4] && a[4]==a[1] && a[7]==79) ||(a[8]==a[5] && a[5]==a[2] && a[8]==79)||(a[6]==a[2] && a[2]==a[4] && a[6]==79)||(a[8]==a[4] && a[8]==a[0] && a[8]==79))
 
                     {
-                        printf("\t\t\t\t\t\n====== %s is the WINNER.========BY SANJU\n\n",player2);
+                        printf("\t\t\t\t\t\n====== %s is the WINNER.========Game by grpnpraveen\n\n",player2);
                         exit(0);
 
                     }
@@ -271,7 +271,7 @@ if( (a[6]==a[7] && a[7]==a[8] && a[6]==88) ||(a[3]==a[4] && a[3]==a[5] && a[3]==
    ||(a[7]==a[4] && a[4]==a[1] && a[7]==88) ||(a[8]==a[5] && a[5]==a[2] && a[8]==88)||(a[6]==a[2] && a[2]==a[4] && a[6]==88)||(a[8]==a[4] && a[8]==a[0] && a[8]==88))
 
                     {
-                        printf("\t\t\t\t\t\n====== %s is the WINNER.========BY SANJU \n\n",player1);
+                        printf("\t\t\t\t\t\n====== %s is the WINNER.========Game by grpnpraveen \n\n",player1);
                         exit(0);
 
                     }
@@ -280,7 +280,7 @@ if( (a[6]==a[7] && a[7]==a[8] && a[6]==79) ||(a[3]==a[4] && a[3]==a[5] && a[3]==
    ||(a[7]==a[4] && a[4]==a[1] && a[7]==79) ||(a[8]==a[5] && a[5]==a[2] && a[8]==79)||(a[6]==a[2] && a[2]==a[4] && a[6]==79)||(a[8]==a[4] && a[8]==a[0] && a[8]==79))
 
                     {
-                        printf("\t\t\t\t\t\n====== %s is the WINNER.========BY SANJU\n\n",player2);
+                        printf("\t\t\t\t\t\n====== %s is the WINNER.========Game by grpnpraveen\n\n",player2);
                         exit(0);
 
                     }
@@ -315,7 +315,7 @@ if( (a[6]==a[7] && a[7]==a[8] && a[6]==88) ||(a[3]==a[4] && a[3]==a[5] && a[3]==
    ||(a[7]==a[4] && a[4]==a[1] && a[7]==88) ||(a[8]==a[5] && a[5]==a[2] && a[8]==88)||(a[6]==a[2] && a[2]==a[4] && a[6]==88)||(a[8]==a[4] && a[8]==a[0] && a[8]==88))
 
                     {
-                        printf("\t\t\t\t\t\n====== %s is the WINNER.========BY SANJU\n\n",player1);
+                        printf("\t\t\t\t\t\n====== %s is the WINNER.========Game by grpnpraveen\n\n",player1);
                         exit(0);
 
                     }
@@ -324,7 +324,7 @@ if( (a[6]==a[7] && a[7]==a[8] && a[6]==79) ||(a[3]==a[4] && a[3]==a[5] && a[3]==
    ||(a[7]==a[4] && a[4]==a[1] && a[7]==79) ||(a[8]==a[5] && a[5]==a[2] && a[8]==79)||(a[6]==a[2] && a[2]==a[4] && a[6]==79)||(a[8]==a[4] && a[8]==a[0] && a[8]==79))
 
                     {
-                        printf("\t\t\t\t\t\n====== %s is the WINNER.========BY SANJU\n\n",player2);
+                        printf("\t\t\t\t\t\n====== %s is the WINNER.========Game by grpnpraveen\n\n",player2);
                         exit(0);
 
                     }
